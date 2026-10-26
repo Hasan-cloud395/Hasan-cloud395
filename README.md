@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-DevOps engineer with 7 years of hands-on experience in CI/CD automation, Infrastructure as Code and Kubernetes. I focus on automating deployments, keeping production highly available (99.9% uptime) and building secure release pipelines.
+DevOps engineer with hands-on experience in CI/CD automation, Infrastructure as Code and Kubernetes. I focus on automating deployments, keeping production highly available (99.9% uptime) and building secure release pipelines.
 
 - ☁️ AWS, CloudFormation, Terraform, Ansible
 - 🐳 Docker, Kubernetes (EKS, Fargate), Helm
